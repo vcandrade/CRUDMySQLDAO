@@ -1,7 +1,6 @@
 
-package br.edu.utfpr.pg.app;
+package br.edu.utfpr.pg.app.dao;
 
-import br.edu.utfpr.pg.app.dao.AlunoDAO;
 import br.edu.utfpr.pg.app.entity.Aluno;
 import java.sql.SQLException;
 import java.util.ArrayList;
